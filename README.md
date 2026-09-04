@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ishan Kulkarni
 
-<!--
-**ishnx/ishnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Consumer product builder based in Bengaluru. I'm a product manager at super.money, working on growth, revenue, and AI initiatives. Previously CRED. IIT Madras.
 
-Here are some ideas to get you started:
+I build small tools and experiments on the side, most of them AI-assisted.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's here
+
+- **[ishan-kulkarni](https://github.com/ishnx/ishan-kulkarni)** - my personal site, live at [ishnx.github.io/ishan-kulkarni/me](https://ishnx.github.io/ishan-kulkarni/me)
+- **[hdfc-spends-12m](https://github.com/ishnx/hdfc-spends-12m)** - a year of HDFC Diners Black spends, analysed (AES-256-GCM encrypted, password-gated)
+- **[spends-last-12m](https://github.com/ishnx/spends-last-12m)** - last 12 months of spends, analysed and actioned
+- **[bhagavad-gita-wisdom](https://github.com/ishnx/bhagavad-gita-wisdom)** - a small app that surfaces verses and wisdom from the Bhagavad Gita
+
+## Elsewhere
+
+- LinkedIn: [linkedin.com/in/ishan-kulkarni](https://www.linkedin.com/in/ishan-kulkarni)
+- Personal site: [ishnx.github.io/ishan-kulkarni/me](https://ishnx.github.io/ishan-kulkarni/me)
